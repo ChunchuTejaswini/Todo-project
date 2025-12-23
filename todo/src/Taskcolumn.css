@@ -1,0 +1,27 @@
+/* Column container */
+.task_column {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 450px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Column heading */
+.task_column_heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #1e293b;
+}
+
+/* Column icon */
+.task_column_heading img {
+  width: 24px;
+  height: 24px;
+}

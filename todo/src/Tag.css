@@ -1,0 +1,15 @@
+/* Tag buttons */
+.tag {
+  padding: 6px 12px;
+  border-radius: 20px;
+  border: 1px solid #2563eb;
+  background-color: #e0e7ff;
+  color: #1e40af;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.tag:hover {
+  background-color: #2563eb;
+  color: white;
+}
